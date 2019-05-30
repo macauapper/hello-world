@@ -1,2 +1,4 @@
 # hello-world
-begin to git
+
+How are you!
+Test it!
